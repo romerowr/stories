@@ -1,0 +1,14 @@
+{
+	"app":{
+		"title":"FrameWorkAlex",
+		"version":"5.6"
+	},
+	"dbconf":{
+		"driver":"mysql",
+		"dbhost":"localhost",
+		"dbuser":"root",
+		"dbpass":"linuxlinux",
+		"dbname":"storypub"
+	}
+
+}
